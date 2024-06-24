@@ -1,0 +1,11 @@
+requests
+flask
+openai
+langchain
+langchainhub
+langchain_community
+streamlit
+pypdf
+faiss-cpu
+langchain_openai 
+python-dotenv
